@@ -34,12 +34,12 @@ Like Wordle- but with cards! Guess the hidden cards of the Qardle within 5 turns
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40">
 </p>
 
-<p float="left">
+## Stats
+--------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmineelkins&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmineelkins&layout=compact&theme=radical)](https://github.com/jasmineelkins/github-readme-stats)
 
-</p>
 
 ## Get in Touch
 --------
