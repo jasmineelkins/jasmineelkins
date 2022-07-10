@@ -4,4 +4,4 @@ Full-stack experienced developer in React, JavaScript, and Ruby on Rails. Proven
 
 Recent graduate from the Flatiron School Software Engineering bootcamp. Excellent at learning new languages and skills in a fast-paced environment and building web applications from initial concept and design to fully developed products. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmineelkins&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmineelkins&show_icons=true&theme=radical)
