@@ -1,4 +1,4 @@
-#Hi! I'm Jasmine
+# Hi! I'm Jasmine
 --------
 
 Full-stack developer experiences in React, JavaScript, and Ruby on Rails. Proven team collaborator possessing strong communication and organizational skills developed from years of managing multiple simultaneous scientific experiments. A background in chemistry and art have inspired my passion for bringing to life both the technical and visual aspects of my projects. 
@@ -7,19 +7,19 @@ Recent graduate from the Flatiron School Software Engineering bootcamp. Excellen
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmineelkins&show_icons=true&theme=radical)
 
-##Projects
+## Projects
 --------
 
-######Forget Me Not [Repo] (https://github.com/jasmineelkins/forget-me-not) | [Demo] (https://vimeo.com/723854744/ea6d716679) | [Try it] (https://jasmineelkins-forget-me-not.herokuapp.com/)
+###### Forget Me Not [Repo] (https://github.com/jasmineelkins/forget-me-not) | [Demo] (https://vimeo.com/723854744/ea6d716679) | [Try it] (https://jasmineelkins-forget-me-not.herokuapp.com/)
 Save articles to your custom reading list and receive them as an email newsletter at the end of each week.
 
-######Second Guessed [Repo] (https://github.com/ArkfulDodger/secondguessed-fe) | [Demo] (https://vimeo.com/723867931/0e273bea58) | [Play!] (https://dashing-paletas-01a643.netlify.app)
+###### Second Guessed [Repo] (https://github.com/ArkfulDodger/secondguessed-fe) | [Demo] (https://vimeo.com/723867931/0e273bea58) | [Play!] (https://dashing-paletas-01a643.netlify.app)
 Multiplayer game where players describe randomly generated images and vote for the second-best description.
 
-######Qardle! [Repo] (https://github.com/jasmineelkins/cardle) | [Demo] (https://vimeo.com/manage/videos/723429100/fb39e797cb) | [Play!] (https://jasmineelkins.github.io/cardle/)
+###### Qardle! [Repo] (https://github.com/jasmineelkins/cardle) | [Demo] (https://vimeo.com/manage/videos/723429100/fb39e797cb) | [Play!] (https://jasmineelkins.github.io/cardle/)
 Like Wordle- but with cards! Guess the hidden cards of the Qardle within 5 turns.
 
-##Skills
+## Skills
 --------
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50">
@@ -35,11 +35,10 @@ Like Wordle- but with cards! Guess the hidden cards of the Qardle within 5 turns
 </p>
 
 
-##Get in Touch
+## Get in Touch
 --------
 <p>
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>] (https://www.linkedin.com/in/jasmine-elkins/)
-[<img src="https://www.svgrepo.com/show/354057/medium-icon.svg" width="50" height="50"/>] (https://medium.com/@jasmine.elkins)
-
+ <a href="https://www.linkedin.com/in/jasmine-elkins/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" width="50" /></a>
+<a href="https://medium.com/@jasmine.elkins" target="blank"><img align="left" src="https://www.svgrepo.com/show/354057/medium-icon.svg" height="50" width="50" /></a>
 </p>
           
