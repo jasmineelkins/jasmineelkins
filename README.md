@@ -10,7 +10,7 @@ Currently based in New York City and looking for a front-end or full-stack posit
 
 ## Projects
 
-##### **Forget Me Not** [Repo](https://github.com/jasmineelkins/forget-me-not) || [Demo](https://vimeo.com/723854744/ea6d716679) || [Try it](https://jasmineelkins-forget-me-not.herokuapp.com/)
+<h4>Forget Me Not</h4> <span>[Repo](https://github.com/jasmineelkins/forget-me-not) || [Demo](https://vimeo.com/723854744/ea6d716679) || [Try it](https://jasmineelkins-forget-me-not.herokuapp.com/)</span>
 _Save articles to your custom reading list and receive them as an email newsletter at the end of each week._
 
 ##### **Second Guessed** [Repo](https://github.com/ArkfulDodger/secondguessed-fe) || [Demo](https://vimeo.com/723867931/0e273bea58) || [Play!](https://dashing-paletas-01a643.netlify.app)
