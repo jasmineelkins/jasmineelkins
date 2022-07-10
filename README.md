@@ -33,3 +33,13 @@ Like Wordle- but with cards! Guess the hidden cards of the Qardle within 5 turns
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50">
 </p>
+
+
+##Get in Touch
+--------
+<p>
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>] (https://www.linkedin.com/in/jasmine-elkins/)
+[<img src="https://www.svgrepo.com/show/354057/medium-icon.svg" width="50" height="50"/>] (https://medium.com/@jasmine.elkins)
+
+</p>
+          
