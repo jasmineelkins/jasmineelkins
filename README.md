@@ -43,10 +43,10 @@ Like Wordle- but with cards! Guess the hidden cards of the Qardle within 5 turns
 --------
 
 <a href="https://github-readme-stats.vercel.app/api?username=jasmineelkins&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasmineelkins&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasmineelkins&show_icons=true&theme=radical" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmineelkins&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasmineelkins&repo=top-langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmineelkins&layout=compact&theme=radical" />
 </a>
 
           
