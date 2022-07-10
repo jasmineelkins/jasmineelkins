@@ -21,7 +21,4 @@ Like Wordle- but with cards! Guess the hidden cards of the Qardle within 5 turns
 
 ##Skills
 --------
-![alt text][React]
-
-
-[React]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
+<img src="https://your-image-url.type" width="100" height="100">
