@@ -37,6 +37,7 @@ Like Wordle- but with cards! Guess the hidden cards of the Qardle within 5 turns
 <a href="https://medium.com/@jasmine.elkins" target="blank"><img align="left" src="https://www.svgrepo.com/show/354057/medium-icon.svg" height="30" width="30" /></a>
 </p>
 
+----
 ## Stats
 <a href="https://github-readme-stats.vercel.app/api?username=jasmineelkins&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasmineelkins&show_icons=true&theme=radical" />
