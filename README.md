@@ -1,5 +1,7 @@
 # Hi! I'm Jasmine
 --------
+![alt text](images/banner.png)
+
 
 Full-stack developer experiences in React, JavaScript, and Ruby on Rails. Proven team collaborator possessing strong communication and organizational skills developed from years of managing multiple simultaneous scientific experiments. A background in chemistry and art have inspired my passion for bringing to life both the technical and visual aspects of my projects. 
 
