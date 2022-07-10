@@ -34,17 +34,19 @@ Like Wordle- but with cards! Guess the hidden cards of the Qardle within 5 turns
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40">
 </p>
 
-## Stats
---------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmineelkins&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmineelkins&layout=compact&theme=radical)](https://github.com/jasmineelkins/github-readme-stats)
-
-
 ## Get in Touch
 --------
 <p>
  <a href="https://www.linkedin.com/in/jasmine-elkins/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" /></a>
 <a href="https://medium.com/@jasmine.elkins" target="blank"><img align="left" src="https://www.svgrepo.com/show/354057/medium-icon.svg" height="30" width="30" /></a>
 </p>
+--------
+
+<a href="https://github-readme-stats.vercel.app/api?username=jasmineelkins&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasmineelkins&repo=github-readme-stats" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmineelkins&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasmineelkins&repo=top-langs" />
+</a>
+
           
